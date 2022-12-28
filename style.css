@@ -120,4 +120,7 @@ button:active {
   .fa-quote-left {
     font-size: 1.75rem;
   }
+  .long-quote {
+    font-size: 1.3rem;
+  }
 }
